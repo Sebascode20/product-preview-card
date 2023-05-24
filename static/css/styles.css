@@ -39,7 +39,7 @@ article {
 }
 
 article header > .card-image {
-  background: url("/images/image-product-mobile.jpg") no-repeat top/cover;
+  background: url("images/image-product-mobile.jpg") no-repeat top/cover;
   height: 230px;
   border-radius: 9px 9px 0 0;
 }
@@ -111,7 +111,7 @@ button img {
   }
 
   article header > .card-image {
-    background: url("/images/image-product-desktop.jpg") no-repeat top/cover;
+    background: url("images/image-product-desktop.jpg") no-repeat top/cover;
     width: 310px;
     height: 42vh;
     border-radius: 10px 0 0 10px;
